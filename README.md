@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shrishti Singh
-- 👀 I’m interested in Full Stack Development and Data Science
-- 🌱 I’m currently Pursuing my 4 th Year B.Tech Degree from Kalinga Institute of Industrial Technology
-- 💞️ I’m looking for Opprtunity to Learn and grow
+- 👋 Hi, I am Shrishti Singh.
+- 👀 I am interested in Full Stack Development and Data Science.
+- 🌱 I am currently Pursuing my 4 Year B.Tech Degree from Kalinga Institute of Industrial Technology.
+- 💞️ I am looking for Opprtunity to learn and grow.
 - 📫 Mail me (shrishti27singh@gmail.com)
 
 <!---
